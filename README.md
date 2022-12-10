@@ -3,6 +3,9 @@
 
 Some image processing examples with MATLAB.
 
+## Content
+* histeq()
+
 ## histeq()
 
 [Enhance contrast](hist_equalization.m 'histogram aligment') using histogram equalization. Input: grayscale image. Output: adjusted image.
