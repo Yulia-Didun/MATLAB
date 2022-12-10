@@ -1,7 +1,7 @@
 Some image processing examples with MATLAB.
 
 # MatLab
-##histeq()
+## histeq()
 
 Enhance contrast using histogram equalization. Input: grayscale image. Output: adjusted image.
 
