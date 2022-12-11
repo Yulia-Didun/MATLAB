@@ -14,6 +14,6 @@ Some basic image processing examples with MATLAB.
 
 ## imadjust()  <a name="imadjust"></a>
 
-[Adjust image intensity values.](imadjust.m 'adjust')
+[Adjust image intensity values.](adjust.m 'adjust')
 
 <img src='https://user-images.githubusercontent.com/102674126/206882090-da646592-0f29-442c-805f-2d6fe150bd93.png' alt='imadjust()' width="680"/>
