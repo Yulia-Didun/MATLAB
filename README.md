@@ -5,6 +5,7 @@ Some basic image processing examples with MATLAB.
 ## Content
 * [histeq()](#histeq)
 * [imadjust()](#imadjust)
+* [Negative of an Image](#negative)
 
 ## histeq()  <a name="histeq"></a>
 
@@ -15,5 +16,11 @@ Some basic image processing examples with MATLAB.
 ## imadjust()  <a name="imadjust"></a>
 
 [Adjust image intensity values.](adjust.m 'adjust')
+
+<img src='https://user-images.githubusercontent.com/102674126/206882090-da646592-0f29-442c-805f-2d6fe150bd93.png' alt='imadjust()' width="680"/>
+
+## Negative of an Image  <a name="negative"></a>
+
+[Adjust image intensity values.](negative_1.m 'negative')
 
 <img src='https://user-images.githubusercontent.com/102674126/206882090-da646592-0f29-442c-805f-2d6fe150bd93.png' alt='imadjust()' width="680"/>
