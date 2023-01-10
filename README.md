@@ -26,8 +26,8 @@ Some basic image processing examples with MATLAB.
 Finding the negative of an image by changing the intensity levels of the pixels present in the image.
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/102674126/209453378-875a85a8-2d89-42bb-a29a-10c3ffa40412.png" height="320" />
-  <img src="https://user-images.githubusercontent.com/102674126/209453497-a123d3ec-fa3d-477b-8942-70a167a1e12f.png" height="320" /> 
+  <img src="https://user-images.githubusercontent.com/102674126/209453378-875a85a8-2d89-42bb-a29a-10c3ffa40412.png" height="310" />
+  <img src="https://user-images.githubusercontent.com/102674126/209453497-a123d3ec-fa3d-477b-8942-70a167a1e12f.png" height="310" /> 
 </p>
 
 ### [Get the negative of an image using loops](negative_loops.m 'negative')
