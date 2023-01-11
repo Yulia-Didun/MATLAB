@@ -67,10 +67,10 @@ We can also get the negative of an image using MATLAB's built-in function <b>imc
 
 ## Binary Image<a name = 'binary'></a>
 
-Converting [grayscale image to binary (black and white) image](bw.m 'binary image').
+Converting [grayscale image to binary (black and white) image](Binary%20Image%20Convertion/bw.m).
 
 <img src='https://user-images.githubusercontent.com/102674126/211834924-750c35ca-cc88-442f-a021-acb8d33590bb.png' alt='Binary image' width="680"/>
 
-Converting [RGB image to binary](rgb_bw.m 'binary image').
+Converting [RGB image to binary](Binary%20Image%20Convertion/rgb_bw.m).
 
 <img src='https://user-images.githubusercontent.com/102674126/211836906-4f21e7ca-3752-4c45-8b8d-8524d2503da0.png' alt='Binary image' width='680'/>
