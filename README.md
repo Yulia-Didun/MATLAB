@@ -22,7 +22,7 @@ Some basic image processing examples with MATLAB.
 
 ## Negative of an Image  <a name="negative"></a>
 
-### [Get the negative of an image](negative.m 'negative')
+### [Get the negative of an image](Negative%20of%20an%20Image/negative.m 'negative')
 
 Finding the negative of an image by changing the intensity levels of the pixels present in the image.
 
@@ -31,7 +31,7 @@ Finding the negative of an image by changing the intensity levels of the pixels 
   <img src="https://user-images.githubusercontent.com/102674126/209453497-a123d3ec-fa3d-477b-8942-70a167a1e12f.png" height="270" /> 
 </p>
 
-### [Get the negative of an image using loops](negative_loops.m 'negative')
+### [Get the negative of an image using loops](Negative%20of%20an%20Image/negative_loops.m 'negative')
 
 Checks if image is either grayscale or RGB, and depends on statement choose loop. Works good on grayscale images but slow on RGB.
 #### Grayscale:
@@ -62,7 +62,7 @@ elseif size(image,3) == 3
 end
 ```
 
-### [Complement image](imcomplement_image.m 'complement')
+### [Complement image](Negative%20of%20an%20Image/imcomplement_image.m 'complement')
 We can also get the negative of an image using MATLAB's built-in function <b>imcomplement()</b>. It subtracts the pixel value from the maximum pixel value of the image class.
 
 ## Binary Image<a name = 'binary'></a>
