@@ -12,13 +12,13 @@ Some basic image processing examples with MATLAB.
 
 [Enhance contrast](hist_equalization.m 'histogram aligment') using histogram equalization. Input: grayscale image. Output: adjusted image.
 
-<img src='https://user-images.githubusercontent.com/102674126/206872575-7e59bf51-60af-48cb-b809-eb42a8d75adc.png' alt='histeq()' width="680"/>
+<img src='https://user-images.githubusercontent.com/102674126/206872575-7e59bf51-60af-48cb-b809-eb42a8d75adc.png' alt='histeq()' width="580"/>
 
 ## imadjust()  <a name="imadjust"></a>
 
 [Adjust image intensity values.](adjust.m 'adjust')
 
-<img src='https://user-images.githubusercontent.com/102674126/206882090-da646592-0f29-442c-805f-2d6fe150bd93.png' alt='imadjust()' width="680"/>
+<img src='https://user-images.githubusercontent.com/102674126/206882090-da646592-0f29-442c-805f-2d6fe150bd93.png' alt='imadjust()' width="580"/>
 
 ## Negative of an Image  <a name="negative"></a>
 
@@ -69,8 +69,8 @@ We can also get the negative of an image using MATLAB's built-in function <b>imc
 
 Converting [grayscale image to binary (black and white) image](Binary%20Image%20Convertion/bw.m).
 
-<img src='https://user-images.githubusercontent.com/102674126/211834924-750c35ca-cc88-442f-a021-acb8d33590bb.png' alt='Binary image' width="680"/>
+<img src='https://user-images.githubusercontent.com/102674126/211834924-750c35ca-cc88-442f-a021-acb8d33590bb.png' alt='Binary image' width="580"/>
 
 Converting [RGB image to binary](Binary%20Image%20Convertion/rgb_bw.m).
 
-<img src='https://user-images.githubusercontent.com/102674126/211836906-4f21e7ca-3752-4c45-8b8d-8524d2503da0.png' alt='Binary image' width='680'/>
+<img src='https://user-images.githubusercontent.com/102674126/211836906-4f21e7ca-3752-4c45-8b8d-8524d2503da0.png' alt='Binary image' width='580'/>
